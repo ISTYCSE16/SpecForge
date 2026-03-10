@@ -1,6 +1,6 @@
 # SpecForge
 
-This template should help get you started developing with Vue 3 in Vite.
+Giving users a brand new way of Forging their next dream workstation, including performance review and suggestions.
 
 ## Recommended IDE Setup
 
